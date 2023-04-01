@@ -10,7 +10,7 @@ harder as the snake lengthens.
 
 
 ## Screenshots
-### Starting View
+### Game Start
 In the starting we have a snake and a some food for snake when snake eat the food then length of the sanke will increase and food will randomize their position anywhere in the frame.
 
 ![App Screenshot](https://github.com/shivam-sharma0/Snake-Game/blob/main/resources/Screenshot%202023-04-01%20131517.png?raw=true)
